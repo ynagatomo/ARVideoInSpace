@@ -19,8 +19,8 @@ The video file is delivered by NASA. The texture image of outer space is provide
 - [NASA Goddard In The Galaxy](https://svs.gsfc.nasa.gov/11378)
 - [Solar System Scope: Solar Textures](https://www.solarsystemscope.com/textures/)
 
-![Pict1_320](https://user-images.githubusercontent.com/66309582/152359442-1d630a48-c440-4544-b4e4-e87914037787.jpg)
-![Pict1_320](https://user-images.githubusercontent.com/66309582/152359544-708f5989-dd09-4d77-be4a-d0a66ac4c6c8.jpg)
+![Pict1_320](https://user-images.githubusercontent.com/66309582/152360381-eefa15d5-c265-4c62-ba1c-306856095635.jpg)
+![Pict1_320](https://user-images.githubusercontent.com/66309582/152360398-e3f1bf67-7adf-4f7b-a33f-efe8c7def114.jpg)
 ![GIF1](https://user-images.githubusercontent.com/66309582/152359614-8d3648c4-c15e-4361-80df-b2f5e57081e7.gif)
 
 ![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)
